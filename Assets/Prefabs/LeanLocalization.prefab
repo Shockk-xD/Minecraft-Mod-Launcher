@@ -1,0 +1,496 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1249437015344057944
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3431321243495761061}
+  - component: {fileID: 1333982772749378053}
+  m_Layer: 0
+  m_Name: LeanLanguageCSV (Polish)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3431321243495761061
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1249437015344057944}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 37573659472827584}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1333982772749378053
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1249437015344057944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 086ae75064fca9f46b315403da7f5d20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Source: {fileID: 4900000, guid: aa33a207e2233d948a85093184a69789, type: 3}
+  Format: 1
+  Language: Polish
+  Cache: 0
+  entries:
+  - Name: Loading
+    Text: ' Zaladunek...'
+  - Name: AppDescription
+    Text: ' Shader Mod Realistic Minecraft - ultra shadery dla realistycznej rozgrywki
+      w naszej aplikacji MCPE'
+  - Name: Mods
+    Text: ' Moda'
+  - Name: Instruction
+    Text: ' Instrukcje'
+  - Name: Polytics
+    Text: ' Polityka prywatnosci'
+  - Name: InstructionText
+    Text: " 1. Przejdz na strone interesujacego Cie moda klikajac na przycisk z nazwa
+      moda.\\n2. Wybierz mod ktory Cie interesuje i kliknij przycisk Otworz.\\n3.
+      Kliknij przycisk pobierania.\\n4. Poczekaj na zainstalowanie moda.\\n5. Kliknij
+      przycisk Otworz dodatek. Nastepnie Minecraft otworzy sie i nastapi import.
+      Jesli import sie nie powiedzie zamknij Minecraft i otworz mod ponownie.\\n6.
+      Jesli wszystko zrobiles poprawnie a wersja Twojego Minecrafta jest zgodna z
+      obslugiwanymi wersjami zobaczysz komunikat \u201EImport udany:\u201D\\n7. Stworz
+      nowy swiat. W zakladce \u201EDodatki\u201D kliknij \u201EZestawy zasobow\u201D
+      nastepnie kliknij \u201EMoje zestawy\u201D znajdz i wybierz zainstalowany dodatek
+      i kliknij aktywuj.\\n8. Nie zapomnij tak\u017Ce zastosowac zestaw\xF3w parametrow
+      jesli takie istnieja. Kliknij \u201EZestawy parametrow\u201D a nastepnie \u201EMoje
+      zestawy\u201D znajdz i wybierz zainstalowany dodatek a nastepnie kliknij aktywuj.
+      Jesli nie ma zadnych parametrow mozesz pominac ten krok.\\n9. Kliknij Stworz
+      swiat i ciesz sie gra z nowym dodatkiem!"
+  - Name: Install
+    Text: ' Zainstalowac'
+  - Name: Installing
+    Text: ' Instalacja'
+  - Name: TapToContinue
+    Text: ' Kliknij, aby kontynuowac...'
+  - Name: ModIsInstalling
+    Text: ' Mod jest zainstalowany:'
+  - Name: ModIsInstalled
+    Text: ' Zainstalowany mod:'
+  - Name: OpenMod
+    Text: ' Otworz moda'
+  - Name: Mod1Name
+    Text: ' Mapa: FNAF'
+  - Name: Mod1Description
+    Text: " Dodatkowo roboty przebrane za urocze zwierz\u0105tka witaj\u0105 nas
+      ponownie w Freddy's Pizzeria. Oczywi\u015Bcie te zwierz\u0119ta nie b\u0119d\u0105
+      tak przyjemne w nocy i b\u0119dziesz musia\u0142 wyj\u015B\u0107. Poniewa\u017C
+      animatorzy nie mog\u0105 istnie\u0107 bez walki, musisz walczy\u0107 z nimi
+      na niestandardowej mapie FNaF CrXzy w Minecrafcie. \\nJest tu ju\u017C pizzeria,
+      ale mo\u017Cesz j\u0105 zmieni\u0107 wed\u0142ug w\u0142asnego uznania. Dost\u0119pna
+      jest tak\u017Ce gra fabularna, w kt\xF3r\u0105 mo\u017Cna gra\u0107 z przyjaci\xF3\u0142mi."
+  - Name: Mod2Name
+    Text: " Mapa: Pi\u0119\u0107 nocy u Freddy'ego \u2013 naruszenie bezpiecze\u0144stwa"
+  - Name: Mod2Description
+    Text: " Tworzenie mapy Functional FNaF Security Breach zacz\u0119to tworzy\u0107
+      ju\u017C w grudniu, ale uko\u0144czono j\u0105 dopiero po sze\u015Bciu miesi\u0105cach,
+      a czasem nawet d\u0142u\u017Cej. Pr\xF3bowa\u0142 odbudowa\u0107 ogromn\u0105
+      pizzeri\u0119 Freddy'ego Fazbeara, wykorzystuj\u0105c ka\u017Cd\u0105 mo\u017Cliw\u0105
+      przestrze\u0144. Po o\u015Bmiu miesi\u0105cach budowy b\u0119dziesz m\xF3g\u0142
+      odwiedzi\u0107 to wyj\u0105tkowe i ogromne centrum handlowe w Minecraft, gdy
+      wszystko b\u0119dzie gotowe.\\nAby zainspirowa\u0107 Ci\u0119 do budowy nowych
+      budynk\xF3w, musisz odwiedzi\u0107 ten du\u017Cy, pi\u0119kny budynek. Taki
+      budynek na pewno nie b\u0119dzie Ci si\u0119 nudzi\u0142, a je\u015Bli dodasz
+      do niego animatronik\u0119, zabawa b\u0119dzie jeszcze wi\u0119ksza."
+  - Name: Mod3Name
+    Text: ' Mod: FNAF 6 Halloween'
+  - Name: Mod3Description
+    Text: " Ju\u017C teraz powinni\u015Bmy zacz\u0105\u0107 przygotowywa\u0107 si\u0119
+      do Halloween. Autor moda FFPS/FNAF 6 Halloween postanowi\u0142 stworzy\u0107
+      dodatek, kt\xF3ry pozwoli graczom uczci\u0107 najstraszniejsze wydarzenie roku.
+      Minecraft mo\u017Ce zawiera\u0107 przera\u017Caj\u0105ce animatroniki i inne
+      potwory, kt\xF3re przestrasz\u0105 nawet najodwa\u017Cniejszych rzemie\u015Blnik\xF3w.\\nW
+      zestawie: Ragged Freddy, Ragged Bonnie, Ragged Chica, Ragged Foxy, Op\u0119tany
+      Lewy i Marionetka, kt\xF3r\u0105 mo\u017Cna z\u0142ama\u0107.\\nVampire Jester
+      Pomocna i pluszowa zabawka Treblox z teksturowanymi obrazami"
+--- !u!1 &3795801512412895753
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 37573659472827584}
+  - component: {fileID: 1049923832833836384}
+  m_Layer: 0
+  m_Name: LeanLocalization
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &37573659472827584
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3795801512412895753}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9025569800744351015}
+  - {fileID: 3431321243495761061}
+  - {fileID: 8977721383956824478}
+  - {fileID: 5853449073004402699}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1049923832833836384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3795801512412895753}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 806f0696300aeac44a0e17efee222854, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentLanguage: Russian
+  detectLanguage: 0
+  defaultLanguage: Russian
+  saveLoad: 1
+  prefabs: []
+--- !u!1 &6864260702365594610
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5853449073004402699}
+  - component: {fileID: 741475418293841518}
+  m_Layer: 0
+  m_Name: Polish
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5853449073004402699
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6864260702365594610}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 37573659472827584}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &741475418293841518
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6864260702365594610}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 225ec97158446a94d9cb40a9f742a8b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  translationCode: pl
+  cultures:
+  - en
+--- !u!1 &7062018491572564210
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9025569800744351015}
+  - component: {fileID: 7248247549885130110}
+  m_Layer: 0
+  m_Name: LeanLanguageCSV (Russian)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9025569800744351015
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7062018491572564210}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 37573659472827584}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7248247549885130110
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7062018491572564210}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 086ae75064fca9f46b315403da7f5d20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Source: {fileID: 4900000, guid: 0815305eae5512641898e640b0596c63, type: 3}
+  Format: 1
+  Language: Russian
+  Cache: 0
+  entries:
+  - Name: Loading
+    Text: " \u0417\u0430\u0433\u0440\u0443\u0437\u043A\u0430..."
+  - Name: AppDescription
+    Text: " Shader Mod Realistic Minecraft - \u0443\u043B\u044C\u0442\u0440\u0430
+      \u0448\u0435\u0439\u0434\u0435\u0440\u044B \u0434\u043B\u044F \u0440\u0435\u0430\u043B\u0438\u0441\u0442\u0438\u0447\u043D\u043E\u0439
+      \u0438\u0433\u0440\u044B \u0432 \u043D\u0430\u0448\u0435\u043C \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0438
+      MCPE"
+  - Name: Mods
+    Text: " \u041C\u043E\u0434\u044B"
+  - Name: Instruction
+    Text: " \u0418\u043D\u0441\u0442\u0440\u0443\u043A\u0446\u0438\u044F"
+  - Name: Polytics
+    Text: " \u041F\u043E\u043B\u0438\u0442\u0438\u043A\u0430 \u043A\u043E\u043D\u0444\u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D\u043E\u0441\u0442\u0438"
+  - Name: InstructionText
+    Text: " 1. \u041F\u0435\u0440\u0435\u0439\u0434\u0438\u0442\u0435 \u043D\u0430
+      \u0441\u0442\u0440\u0430\u043D\u0438\u0446\u0443 \u0438\u043D\u0442\u0435\u0440\u0435\u0441\u0443\u044E\u0449\u0435\u0433\u043E
+      \u0432\u0430\u0441 \u043C\u043E\u0434\u0430, \u043D\u0430\u0436\u0430\u0432
+      \u043D\u0430 \u043A\u043D\u043E\u043F\u043A\u0443 \u0441 \u043D\u0430\u0437\u0432\u0430\u043D\u0438\u0435\u043C
+      \u043C\u043E\u0434\u0430.\\n2. \u0412\u044B\u0431\u0435\u0440\u0435\u0442\u0435
+      \u0438\u043D\u0442\u0435\u0440\u0435\u0441\u0443\u044E\u0449\u0438\u0439 \u0432\u0430\u0441
+      \u043C\u043E\u0434 \u0438 \u043D\u0430\u0436\u043C\u0438\u0442\u0435 \u043A\u043D\u043E\u043F\u043A\u0443
+      \u043E\u0442\u043A\u0440\u044B\u0442\u044C.\\n3. \u041D\u0430\u0436\u043C\u0438\u0442\u0435
+      \u043A\u043D\u043E\u043F\u043A\u0443 \u0441\u043A\u0430\u0447\u0430\u0442\u044C.\\n4.
+      \u0414\u043E\u0436\u0434\u0438\u0442\u0435\u0441\u044C \u0443\u0441\u0442\u0430\u043D\u043E\u0432\u043A\u0438
+      \u043C\u043E\u0434\u0430.\\n5. \u041D\u0430\u0436\u043C\u0438\u0442\u0435 \u043A\u043D\u043E\u043F\u043A\u0443
+      \u043E\u0442\u043A\u0440\u044B\u0442\u044C \u0430\u0434\u0434\u043E\u043D.
+      \u041F\u043E\u0441\u043B\u0435 \u0443 \u0432\u0430\u0441 \u043E\u0442\u043A\u0440\u043E\u0435\u0442\u0441\u044F
+      Minecraft \u0438 \u043F\u0440\u043E\u0438\u0437\u043E\u0439\u0434\u0451\u0442
+      \u0438\u043C\u043F\u043E\u0440\u0442. \u0415\u0441\u043B\u0438 \u0438\u043C\u043F\u043E\u0440\u0442
+      \u043D\u0435 \u043F\u0440\u043E\u0438\u0437\u043E\u0448\u0451\u043B, \u0437\u0430\u043A\u0440\u043E\u0439\u0442\u0435
+      \u043C\u0430\u0439\u043D\u043A\u0440\u0430\u0444\u0442 \u0438 \u043E\u0442\u043A\u0440\u043E\u0439\u0442\u0435
+      \u043C\u043E\u0434 \u0437\u0430\u043D\u043E\u0432\u043E.\\n6. \u0415\u0441\u043B\u0438
+      \u0432\u044B \u0432\u0441\u0451 \u0441\u0434\u0435\u043B\u0430\u043B\u0438
+      \u043F\u0440\u0430\u0432\u0438\u043B\u044C\u043D\u043E \u0438 \u0432\u0435\u0440\u0441\u0438\u044F
+      \u0432\u0430\u0448\u0435\u0433\u043E \u043C\u0430\u0439\u043D\u043A\u0440\u0430\u0444\u0442\u0430
+      \u0441\u043E\u0432\u043F\u0430\u0434\u0430\u0435\u0442 \u0441\u043E\u0434\u0435\u0440\u0436\u0438\u0442\u0441\u044F
+      \u0432 \u043F\u043E\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u043C\u044B\u0445
+      \u0432\u0435\u0440\u0441\u0438\u044F\u0445, \u0442\u043E \u0432\u044B \u0443\u0432\u0438\u0434\u0435\u0442\u0435
+      \u0444\u0440\u0430\u0437\u0443 \u0423\u0441\u043F\u0435\u0448\u043D\u044B\u0439
+      \u0438\u043C\u043F\u043E\u0440\u0442:\\n7. \u0421\u043E\u0437\u0434\u0430\u0439\u0442\u0435
+      \u043D\u043E\u0432\u044B\u0439 \u043C\u0438\u0440. \u0412\u043E \u0432\u043A\u043B\u0430\u0434\u043A\u0435
+      \u0414\u043E\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u044F \u043D\u0430\u0436\u043C\u0438\u0442\u0435
+      \u041D\u0430\u0431\u043E\u0440\u044B \u0440\u0435\u0441\u0443\u0440\u0441\u043E\u0432,
+      \u043F\u043E\u0441\u043B\u0435 \u043D\u0430\u0436\u043C\u0438\u0442\u0435 \u041C\u043E\u0438
+      \u043D\u0430\u0431\u043E\u0440\u044B \u043D\u0430\u0439\u0434\u0438\u0442\u0435
+      \u0438 \u0432\u044B\u0431\u0435\u0440\u0438\u0442\u0435 \u0443\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043D\u044B\u0439
+      \u0430\u0434\u0434\u043E\u043D \u0438 \u043D\u0430\u0436\u043C\u0438\u0442\u0435
+      \u0430\u043A\u0442\u0438\u0432\u0438\u0440\u043E\u0432\u0430\u0442\u044C.\\n8.
+      \u0422\u0430\u043A\u0436\u0435, \u043D\u0435 \u0437\u0430\u0431\u0443\u0434\u044C\u0442\u0435
+      \u043F\u0440\u0438\u043C\u0435\u043D\u0438\u0442\u044C \u043D\u0430\u0431\u043E\u0440\u044B
+      \u043F\u0430\u0440\u0430\u043C\u0435\u0442\u0440\u043E\u0432, \u0435\u0441\u043B\u0438
+      \u043E\u043D\u0438 \u0435\u0441\u0442\u044C. \u041D\u0430\u0436\u043C\u0438\u0442\u0435
+      \u041D\u0430\u0431\u043E\u0440\u044B \u043F\u0430\u0440\u0430\u043C\u0435\u0442\u0440\u043E\u0432
+      \u043F\u043E\u0441\u043B\u0435 \u043D\u0430\u0436\u043C\u0438\u0442\u0435 \u041C\u043E\u0438
+      \u043D\u0430\u0431\u043E\u0440\u044B \u043D\u0430\u0439\u0434\u0438\u0442\u0435
+      \u0438 \u0432\u044B\u0431\u0435\u0440\u0438\u0442\u0435 \u0443\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D\u043D\u044B\u0439
+      \u0430\u0434\u0434\u043E\u043D \u0438 \u043D\u0430\u0436\u043C\u0438\u0442\u0435
+      \u0430\u043A\u0442\u0438\u0432\u0438\u0440\u043E\u0432\u0430\u0442\u044C. \u0415\u0441\u043B\u0438
+      \u043F\u0430\u0440\u0430\u043C\u0435\u0442\u0440\u043E\u0432 \u043D\u0435\u0442,
+      \u043C\u043E\u0436\u0435\u0442\u0435 \u043F\u0440\u043E\u043F\u0443\u0441\u0442\u0438\u0442\u044C
+      \u044D\u0442\u043E\u0442 \u0448\u0430\u0433.\\n9. \u041D\u0430\u0436\u043C\u0438\u0442\u0435
+      \u0441\u043E\u0437\u0434\u0430\u0442\u044C \u043C\u0438\u0440 \u0438 \u043D\u0430\u0441\u043B\u0430\u0436\u0434\u0430\u0439\u0442\u0435\u0441\u044C
+      \u0438\u0433\u0440\u043E\u0439 \u0441 \u043D\u043E\u0432\u044B\u043C \u0430\u0434\u0434\u043E\u043D\u043E\u043C!"
+  - Name: Install
+    Text: " \u0423\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u044C"
+  - Name: Installing
+    Text: " \u0423\u0441\u0442\u0430\u043D\u0430\u0432\u043B\u0438\u0432\u0430\u0435\u0442\u0441\u044F..."
+  - Name: TapToContinue
+    Text: " \u041D\u0430\u0436\u043C\u0438\u0442\u0435, \u0447\u0442\u043E\u0431\u044B
+      \u043F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u044C..."
+  - Name: ModIsInstalling
+    Text: " \u0423\u0441\u0442\u0430\u043D\u0430\u0432\u043B\u0438\u0432\u0430\u0435\u0442\u0441\u044F
+      \u043C\u043E\u0434:"
+  - Name: ModIsInstalled
+    Text: " \u0423\u0441\u0442\u0430\u043D\u043E\u0432\u043B\u0435\u043D \u043C\u043E\u0434:"
+  - Name: OpenMod
+    Text: " \u041E\u0442\u043A\u0440\u044B\u0442\u044C \u043C\u043E\u0434"
+  - Name: Mod1Name
+    Text: " \u041A\u0430\u0440\u0442\u0430: \u0424\u041D\u0410\u0424"
+  - Name: Mod1Description
+    Text: " \u041A\u0440\u043E\u043C\u0435 \u0442\u043E\u0433\u043E, \u0440\u043E\u0431\u043E\u0442\u044B,
+      \u043E\u0434\u0435\u0442\u044B\u0435 \u0432 \u043E\u0447\u0430\u0440\u043E\u0432\u0430\u0442\u0435\u043B\u044C\u043D\u044B\u0435
+      \u0437\u0432\u0435\u0440\u0438, \u0441\u043D\u043E\u0432\u0430 \u043F\u0440\u0438\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044E\u0442
+      \u043D\u0430\u0441 \u0432 \u043F\u0438\u0446\u0446\u0435\u0440\u0438\u0438
+      \u0424\u0440\u0435\u0434\u0434\u0438. \u0415\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043D\u043D\u043E,
+      \u044D\u0442\u0438 \u0437\u0432\u0435\u0440\u0438 \u0431\u0443\u0434\u0443\u0442
+      \u043D\u0435 \u0442\u0430\u043A\u0438\u043C\u0438 \u043F\u0440\u0438\u044F\u0442\u043D\u044B\u043C\u0438
+      \u043F\u043E \u043D\u043E\u0447\u0430\u043C, \u0438 \u0442\u0435\u0431\u0435
+      \u043F\u0440\u0438\u0434\u0435\u0442\u0441\u044F \u0443\u0439\u0442\u0438.
+      \u041F\u043E\u0441\u043A\u043E\u043B\u044C\u043A\u0443 \u0430\u043D\u0438\u043C\u0430\u0442\u043E\u0440\u0438\u043A\u0438
+      \u043D\u0435 \u043C\u043E\u0433\u0443\u0442 \u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043E\u0432\u0430\u0442\u044C
+      \u0431\u0435\u0437 \u0431\u043E\u044F, \u0432\u0430\u043C \u043D\u0443\u0436\u043D\u043E
+      \u0441\u0440\u0430\u0437\u0438\u0442\u044C\u0441\u044F \u0441 \u043D\u0438\u043C\u0438
+      \u043D\u0430 \u043A\u0430\u0440\u0442\u0435 CrXzy's Custom FNaF \u0432 Minecraft.
+      \\n\u0417\u0434\u0435\u0441\u044C \u0443\u0436\u0435 \u0435\u0441\u0442\u044C
+      \u043F\u0438\u0446\u0446\u0435\u0440\u0438\u044F, \u043D\u043E \u0432\u044B
+      \u043C\u043E\u0436\u0435\u0442\u0435 \u0438\u0437\u043C\u0435\u043D\u0438\u0442\u044C
+      \u0435\u0435, \u043A\u0430\u043A \u043F\u043E\u0436\u0435\u043B\u0430\u0435\u0442\u0435.
+      \u0422\u0430\u043A\u0436\u0435 \u0434\u043E\u0441\u0442\u0443\u043F\u043D\u0430
+      \u0440\u043E\u043B\u0435\u0432\u0430\u044F \u0438\u0433\u0440\u0430, \u043A\u043E\u0442\u043E\u0440\u0443\u044E
+      \u043C\u043E\u0436\u043D\u043E \u0438\u0433\u0440\u0430\u0442\u044C \u0441
+      \u0434\u0440\u0443\u0437\u044C\u044F\u043C\u0438."
+  - Name: Mod2Name
+    Text: " \u041A\u0430\u0440\u0442\u0430: \u041F\u044F\u0442\u044C \u043D\u043E\u0447\u0435\u0439
+      \u0443 \u0424\u0440\u0435\u0434\u0434\u0438 \u2014 \u041D\u0430\u0440\u0443\u0448\u0435\u043D\u0438\u0435
+      \u0431\u0435\u0437\u043E\u043F\u0430\u0441\u043D\u043E\u0441\u0442\u0438"
+  - Name: Mod2Description
+    Text: " \u041A\u0430\u0440\u0442\u0443 Functional FNaF Security Breach \u043D\u0430\u0447\u0430\u043B\u0438
+      \u0441\u043E\u0437\u0434\u0430\u0432\u0430\u0442\u044C \u0435\u0449\u0435 \u0432
+      \u0434\u0435\u043A\u0430\u0431\u0440\u0435, \u043D\u043E \u0437\u0430\u043A\u043E\u043D\u0447\u0438\u043B\u0438
+      \u0435\u0435 \u0442\u043E\u043B\u044C\u043A\u043E \u0447\u0435\u0440\u0435\u0437
+      \u043F\u043E\u043B\u0433\u043E\u0434\u0430, \u0430 \u0438\u043D\u043E\u0433\u0434\u0430
+      \u0434\u0430\u0436\u0435 \u0431\u043E\u043B\u044C\u0448\u0435. \u041E\u043D
+      \u043F\u044B\u0442\u0430\u043B\u0441\u044F \u0432\u043E\u0441\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u044C
+      \u043E\u0433\u0440\u043E\u043C\u043D\u0443\u044E \u043F\u0438\u0446\u0446\u0435\u0440\u0438\u044E
+      \u0424\u0440\u0435\u0434\u0434\u0438 \u0424\u0430\u0437\u0431\u0438\u0440\u0430,
+      \u0438\u0441\u043F\u043E\u043B\u044C\u0437\u0443\u044F \u0432\u0441\u0435 \u0432\u043E\u0437\u043C\u043E\u0436\u043D\u044B\u0435
+      \u043F\u043E\u043C\u0435\u0449\u0435\u043D\u0438\u044F. \u041F\u043E\u0441\u043B\u0435
+      \u0432\u043E\u0441\u044C\u043C\u0438 \u043C\u0435\u0441\u044F\u0446\u0435\u0432
+      \u043F\u043E\u0441\u0442\u0440\u043E\u0439\u043A\u0438 \u0432\u044B \u0441\u043C\u043E\u0436\u0435\u0442\u0435
+      \u043F\u043E\u0441\u0435\u0442\u0438\u0442\u044C \u044D\u0442\u043E\u0442 \u0443\u043D\u0438\u043A\u0430\u043B\u044C\u043D\u044B\u0439
+      \u0438 \u043E\u0433\u0440\u043E\u043C\u043D\u044B\u0439 \u0442\u043E\u0440\u0433\u043E\u0432\u044B\u0439
+      \u0446\u0435\u043D\u0442\u0440 \u0432 Minecraft, \u043A\u043E\u0433\u0434\u0430
+      \u0432\u0441\u0435 \u0431\u0443\u0434\u0435\u0442 \u0433\u043E\u0442\u043E\u0432\u043E.\\n\u0427\u0442\u043E\u0431\u044B
+      \u0432\u0434\u043E\u0445\u043D\u043E\u0432\u0438\u0442\u044C \u0432\u0430\u0441
+      \u043D\u0430 \u043D\u043E\u0432\u044B\u0435 \u043F\u043E\u0441\u0442\u0440\u043E\u0439\u043A\u0438,
+      \u0432\u044B \u0434\u043E\u043B\u0436\u043D\u044B \u043F\u043E\u0441\u0435\u0442\u0438\u0442\u044C
+      \u044D\u0442\u043E \u0431\u043E\u043B\u044C\u0448\u043E\u0435, \u043A\u0440\u0430\u0441\u0438\u0432\u043E\u0435
+      \u0437\u0434\u0430\u043D\u0438\u0435. \u0421 \u0442\u0430\u043A\u043E\u0439
+      \u043F\u043E\u0441\u0442\u0440\u043E\u0439\u043A\u043E\u0439 \u0442\u043E\u0447\u043D\u043E
+      \u043D\u0435 \u0437\u0430\u0441\u043A\u0443\u0447\u0430\u0435\u0448\u044C,
+      \u0438 \u0435\u0441\u043B\u0438 \u0434\u043E\u0431\u0430\u0432\u0438\u0442\u044C
+      \u0430\u043D\u0438\u043C\u0430\u0442\u0440\u043E\u043D\u0438\u043A\u043E\u0432,
+      \u0431\u0443\u0434\u0435\u0442 \u0435\u0449\u0435 \u0432\u0435\u0441\u0435\u043B\u0435\u0435."
+  - Name: Mod3Name
+    Text: " \u041C\u043E\u0434: \u0424\u041D\u0410\u0424 6 \u0425\u0435\u043B\u043B\u043E\u0443\u0438\u043D"
+  - Name: Mod3Description
+    Text: " \u041C\u044B \u0434\u043E\u043B\u0436\u043D\u044B \u0443\u0436\u0435
+      \u0441\u0435\u0439\u0447\u0430\u0441 \u043D\u0430\u0447\u0430\u0442\u044C \u0433\u043E\u0442\u043E\u0432\u0438\u0442\u044C
+      \u0441\u0435\u0431\u044F \u043A \u0425\u0435\u043B\u043B\u043E\u0443\u0438\u043D\u0443.
+      \u0410\u0432\u0442\u043E\u0440 \u043C\u043E\u0434\u0430 FFPS/FNAF 6 Halloween
+      \u0440\u0435\u0448\u0438\u043B \u0441\u0434\u0435\u043B\u0430\u0442\u044C \u0434\u043E\u043F\u043E\u043B\u043D\u0435\u043D\u0438\u0435,
+      \u043A\u043E\u0442\u043E\u0440\u043E\u0435 \u043F\u043E\u0437\u0432\u043E\u043B\u0438\u0442
+      \u0438\u0433\u0440\u043E\u043A\u0430\u043C \u043E\u0442\u043C\u0435\u0442\u0438\u0442\u044C
+      \u0441\u0430\u043C\u043E\u0435 \u0436\u0443\u0442\u043A\u043E\u0435 \u0441\u043E\u0431\u044B\u0442\u0438\u0435
+      \u0433\u043E\u0434\u0430. \u0412 \u0438\u0433\u0440\u0435 Minecraft \u043C\u043E\u0433\u0443\u0442
+      \u043F\u043E\u044F\u0432\u0438\u0442\u044C\u0441\u044F \u0443\u0436\u0430\u0441\u043D\u044B\u0435
+      \u0430\u043D\u0438\u043C\u0430\u0442\u0440\u043E\u043D\u0438\u043A\u0438 \u0438
+      \u0434\u0440\u0443\u0433\u0438\u0435 \u043C\u043E\u043D\u0441\u0442\u0440\u044B,
+      \u043A\u043E\u0442\u043E\u0440\u044B\u0435 \u043D\u0430\u043F\u0443\u0433\u0430\u0442\u044C
+      \u0434\u0430\u0436\u0435 \u0441\u0430\u043C\u044B\u0445 \u043E\u0442\u0432\u0430\u0436\u043D\u044B\u0445
+      \u043A\u0440\u0430\u0444\u0442\u0435\u0440\u043E\u0432.\\n\u0424\u0443\u043D\u043A\u0446\u0438\u0438:
+      \u0420\u0432\u0430\u043D\u044B\u0439 \u0424\u0440\u0435\u0434\u0434\u0438,
+      \u0420\u0432\u0430\u043D\u0430\u044F \u0411\u043E\u043D\u043D\u0438, \u0420\u0432\u0430\u043D\u044B\u0439
+      \u0427\u0438\u043A\u0430, \u0420\u0432\u0430\u043D\u044B\u0439 \u0424\u043E\u043A\u0441\u0438,
+      \u041E\u0434\u0435\u0440\u0436\u0438\u043C\u044B\u0439 \u041B\u0435\u0444\u0442\u0438
+      \u0438 \u041C\u0430\u0440\u0438\u043E\u043D\u0435\u0442\u043A\u0430, \u043A\u043E\u0442\u043E\u0440\u0430\u044F
+      \u043C\u043E\u0436\u0435\u0442 \u0431\u044B\u0442\u044C \u0441\u043B\u043E\u043C\u0430\u043D\u0430.\\n\u0412\u0430\u043C\u043F\u0438\u0440\u0441\u043A\u0438\u0439
+      \u0448\u0443\u0442 \u0425\u0435\u043B\u043F\u0438 \u0438 \u043F\u043B\u044E\u0448\u0435\u0432\u0430\u044F
+      \u0438\u0433\u0440\u0443\u0448\u043A\u0430 \u0422\u0440\u0435\u0431\u043B\u043E\u043A\u0441
+      \u0441 \u0442\u0435\u043A\u0441\u0442\u0443\u0440\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u043C\u0438
+      \u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u044F\u043C\u0438"
+--- !u!1001 &7612902920404860896
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 37573659472827584}
+    m_Modifications:
+    - target: {fileID: 765358623864573794, guid: adef00e2be323654ca5fa825a2cc3c72, type: 3}
+      propertyPath: m_Name
+      value: Russian
+      objectReference: {fileID: 0}
+    - target: {fileID: 1527055450098318974, guid: adef00e2be323654ca5fa825a2cc3c72, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1527055450098318974, guid: adef00e2be323654ca5fa825a2cc3c72, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1527055450098318974, guid: adef00e2be323654ca5fa825a2cc3c72, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1527055450098318974, guid: adef00e2be323654ca5fa825a2cc3c72, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1527055450098318974, guid: adef00e2be323654ca5fa825a2cc3c72, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1527055450098318974, guid: adef00e2be323654ca5fa825a2cc3c72, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1527055450098318974, guid: adef00e2be323654ca5fa825a2cc3c72, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1527055450098318974, guid: adef00e2be323654ca5fa825a2cc3c72, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1527055450098318974, guid: adef00e2be323654ca5fa825a2cc3c72, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1527055450098318974, guid: adef00e2be323654ca5fa825a2cc3c72, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: adef00e2be323654ca5fa825a2cc3c72, type: 3}
+--- !u!4 &8977721383956824478 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1527055450098318974, guid: adef00e2be323654ca5fa825a2cc3c72, type: 3}
+  m_PrefabInstance: {fileID: 7612902920404860896}
+  m_PrefabAsset: {fileID: 0}
