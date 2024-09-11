@@ -32,9 +32,9 @@ public class Bootstrap : MonoBehaviour
     private async UniTask Load() {
         float loadingTime = 1.5f;
 
-        _loadingText.text = Lean.Localization.LeanLocalization.GetTranslationText("Loading"); ;
+        _loadingText.text = Lean.Localization.LeanLocalization.GetTranslationText("Loading");
         await UniTask.WaitForSeconds(loadingTime);
-        _loadingText.text = Lean.Localization.LeanLocalization.GetTranslationText("TapToContinue"); ;
+        _loadingText.text = Lean.Localization.LeanLocalization.GetTranslationText("TapToContinue");
         _isLoaded = true;
     }
 

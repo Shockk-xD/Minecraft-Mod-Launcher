@@ -45,7 +45,7 @@ public class ModInstallerView : MonoBehaviour
             await UniTask.Yield(PlayerLoopTiming.Update);
         }
 
-        _installingModNameText.text = Lean.Localization.LeanLocalization.GetTranslationText("ModIsInstalled") + "\n" + modData.Name; 
+        _installingModNameText.text = Lean.Localization.LeanLocalization.GetTranslationText("ModIsInstalled") + "\n" + Lean.Localization.LeanLocalization.GetTranslationText($"Mod{modData.ModId}Name"); 
         _statusText.text = Lean.Localization.LeanLocalization.GetTranslationText("OpenMod");
         _openModButtonImage.sprite = _greenFrameSprite;
         _downloadingIconAnimator.enabled = false;
